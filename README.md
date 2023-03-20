@@ -1,7 +1,7 @@
 # Gradie SignUp
 
-## Preview
+### Preview
 
-## Built with
+### Built with
 - HTML
 - CSS
